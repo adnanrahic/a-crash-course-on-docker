@@ -1,9 +1,9 @@
-![]()
+![a rather large whale](https://cdn-images-1.medium.com/max/2000/1*GQ6CAclmEnGe7PX4pg6sSA.jpeg)
 
 # A crash course on Docker
 
 The quick start guide you are looking for.
-You can take a look at the full article [here]().
+You can take a look at the full article [here]() (issue #1, add article title once published).
 
 ## TL;DR
 - "Why I need this?"
